@@ -1,7 +1,7 @@
 # define a class expense tracker that stores the
 # expenses and income in a dictionary
 # implement the method to
-# - store the transaction;
+# - store the transaction
 # - view transactions;
 # - calculate the total expense/income
 

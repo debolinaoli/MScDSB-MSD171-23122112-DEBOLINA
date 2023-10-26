@@ -1,4 +1,4 @@
-listnames = []   #empty list to store the names.
+listnames = []   # empty list to store the names.
 # store a name to the list
 def storeName(name):
     name = name.strip().title()

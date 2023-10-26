@@ -1,8 +1,10 @@
 # OOP
+# 1st program ....
+
 class MSCDSB:
 
-    def __init__(self):  #membar fuction
-        #   DATA MEMBERS/ PRPPERTIES/ATTRIBUTES..........
+    def __init__(self):  # member fuction
+        # DATA MEMBERS/ PRPPERTIES/ATTRIBUTES.
         self.name = "MSCDSB"
         self.students = ["A","B","C"]
     
@@ -14,6 +16,8 @@ class MSCDSB:
 obj = MSCDSB()
 print(obj.name)           # or => print(obj.name,obj.students)
 print(obj.students)        #  => obj.printstudents.             then output will come in objectwise like rowwise a,b,c
+
+# 2nd program...
 class car:
 
     def __init__(self,mfg,mdl,yer):
